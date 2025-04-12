@@ -1,0 +1,8 @@
+venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# SQLite DB (local only, not needed in repo)
+*.sqlite3
